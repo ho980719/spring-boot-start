@@ -1,0 +1,27 @@
+2023-12-27T09:48:12.311+09:00  INFO 27856 --- [restartedMain] c.h.s.StartSpringBootApplication         : Starting StartSpringBootApplication using Java 17.0.1 with PID 27856 (I:\workspace\kjh\spring-boot\start-spring-boot\build\classes\java\main started by KJH in I:\workspace\kjh\spring-boot\start-spring-boot)
+2023-12-27T09:48:12.313+09:00  INFO 27856 --- [restartedMain] c.h.s.StartSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-27T09:48:12.342+09:00  INFO 27856 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-27T09:48:12.715+09:00  INFO 27856 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-27T09:48:12.737+09:00  INFO 27856 --- [restartedMain] c.h.s.StartSpringBootApplication         : Started StartSpringBootApplication in 0.711 seconds (process running for 1.218)
+2023-12-27T09:48:12.741+09:00  INFO 27856 --- [restartedMain] c.h.s.StartSpringBootApplication         : CommandLineRunner has executed as a bean definition with 0 arguments
+2023-12-27T09:48:12.741+09:00  INFO 27856 --- [restartedMain] c.h.s.StartSpringBootApplication         : CourseTrackerApplication CommandLineRunner has executed
+2023-12-27T09:48:12.743+09:00  INFO 27856 --- [restartedMain] c.h.s.StartSpringBootApplication         : test properties => name : KimJunHo, member.id : ho980719
+2023-12-27T09:48:12.744+09:00  INFO 27856 --- [restartedMain] c.h.s.service.CustomPropertyService      : get properties => CustomProperties(name=Kim Jun Ho, loginId=ho980719, password=1234)
+2023-12-27T09:50:39.259+09:00  INFO 28036 --- [restartedMain] c.h.s.StartSpringBootApplication         : Starting StartSpringBootApplication using Java 17.0.1 with PID 28036 (I:\workspace\kjh\spring-boot\start-spring-boot\build\classes\java\main started by KJH in I:\workspace\kjh\spring-boot\start-spring-boot)
+2023-12-27T09:50:39.261+09:00  INFO 28036 --- [restartedMain] c.h.s.StartSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-27T09:50:39.290+09:00  INFO 28036 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-27T09:50:39.656+09:00  INFO 28036 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-27T09:50:39.677+09:00  INFO 28036 --- [restartedMain] c.h.s.StartSpringBootApplication         : Started StartSpringBootApplication in 0.684 seconds (process running for 1.157)
+2023-12-27T09:50:39.681+09:00  INFO 28036 --- [restartedMain] c.h.s.StartSpringBootApplication         : CommandLineRunner has executed as a bean definition with 0 arguments
+2023-12-27T09:50:39.681+09:00  INFO 28036 --- [restartedMain] c.h.s.StartSpringBootApplication         : CourseTrackerApplication CommandLineRunner has executed
+2023-12-27T09:50:39.682+09:00  INFO 28036 --- [restartedMain] c.h.s.StartSpringBootApplication         : test properties => name : KimJunHo, member.id : ho980719
+2023-12-27T09:50:39.683+09:00  INFO 28036 --- [restartedMain] c.h.s.service.CustomPropertyService      : get properties => CustomProperties(name=Kim Jun Ho, loginId=ho980719, password=1234)
+2023-12-27T09:51:35.070+09:00  INFO 4252 --- [restartedMain] c.h.s.StartSpringBootApplication         : Starting StartSpringBootApplication using Java 17.0.1 with PID 4252 (I:\workspace\kjh\spring-boot\start-spring-boot\build\classes\java\main started by KJH in I:\workspace\kjh\spring-boot\start-spring-boot)
+2023-12-27T09:51:35.071+09:00  INFO 4252 --- [restartedMain] c.h.s.StartSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-27T09:51:35.108+09:00  INFO 4252 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-27T09:51:35.596+09:00  INFO 4252 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-27T09:51:35.618+09:00  INFO 4252 --- [restartedMain] c.h.s.StartSpringBootApplication         : Started StartSpringBootApplication in 0.842 seconds (process running for 1.322)
+2023-12-27T09:51:35.622+09:00  INFO 4252 --- [restartedMain] c.h.s.StartSpringBootApplication         : CommandLineRunner has executed as a bean definition with 0 arguments
+2023-12-27T09:51:35.622+09:00  INFO 4252 --- [restartedMain] c.h.s.StartSpringBootApplication         : CourseTrackerApplication CommandLineRunner has executed
+2023-12-27T09:51:35.624+09:00  INFO 4252 --- [restartedMain] c.h.s.StartSpringBootApplication         : test properties => name : KimJunHo, member.id : ho980719
+2023-12-27T09:51:35.625+09:00  INFO 4252 --- [restartedMain] c.h.s.service.CustomPropertyService      : get properties => CustomProperties(name=Kim Jun Ho, loginId=ho980719, password=1234)

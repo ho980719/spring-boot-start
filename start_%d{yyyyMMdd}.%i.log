@@ -1,0 +1,9 @@
+2023-12-27T09:55:42.262+09:00  INFO 29400 --- [restartedMain] c.h.s.StartSpringBootApplication         : Starting StartSpringBootApplication using Java 17.0.1 with PID 29400 (I:\workspace\kjh\spring-boot\start-spring-boot\build\classes\java\main started by KJH in I:\workspace\kjh\spring-boot\start-spring-boot)
+2023-12-27T09:55:42.264+09:00  INFO 29400 --- [restartedMain] c.h.s.StartSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2023-12-27T09:55:42.292+09:00  INFO 29400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-27T09:55:42.669+09:00  INFO 29400 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-27T09:55:42.689+09:00  INFO 29400 --- [restartedMain] c.h.s.StartSpringBootApplication         : Started StartSpringBootApplication in 0.736 seconds (process running for 1.382)
+2023-12-27T09:55:42.693+09:00  INFO 29400 --- [restartedMain] c.h.s.StartSpringBootApplication         : CommandLineRunner has executed as a bean definition with 0 arguments
+2023-12-27T09:55:42.693+09:00  INFO 29400 --- [restartedMain] c.h.s.StartSpringBootApplication         : CourseTrackerApplication CommandLineRunner has executed
+2023-12-27T09:55:42.695+09:00  INFO 29400 --- [restartedMain] c.h.s.StartSpringBootApplication         : test properties => name : KimJunHo, member.id : ho980719
+2023-12-27T09:55:42.695+09:00  INFO 29400 --- [restartedMain] c.h.s.s.CustomPropertyService            : get properties => CustomProperties(name=Kim Jun Ho, loginId=ho980719, password=1234)
